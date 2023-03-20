@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\bin\Debug\PráticaCiclo.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\bin\Debug\PráticaCiclo.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\bin\Debug\PráticaCiclo.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\obj\Debug\PráticaCiclo.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\obj\Debug\PráticaCiclo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\obj\Debug\PráticaCiclo.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\obj\Debug\PráticaCiclo.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\PráticaCiclo\PráticaCiclo\obj\Debug\PráticaCiclo.pdb
